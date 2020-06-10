@@ -1,3 +1,23 @@
+.paragraphe__font--size1{
+    font-size: 18px;
+    text-align: center;
+}
+.paragraphe__font--size2{
+    font-size: 16px;
+    text-align: center;
+}
+.paragraphe__font--size3{
+  font-size: 12px;
+  font-weight: bold;  
+}
+.paragraphe__font--size4{
+    font-size: 20px;
+    text-align: center;
+}
+.font-address{
+    font-size: 16px;
+    font-weight: bold;  
+  }
 body {
     margin: 0;
     padding: 0;
@@ -91,7 +111,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.svg");
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -810,11 +830,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.svg");
+    background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.svg");
+    background-image: url("img/lines-h2-bg.png");
 }
 
 .bg-banniere {
@@ -1028,10 +1048,14 @@ h4 {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 415px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .col-sm-6 img{
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
