@@ -1,3 +1,9 @@
+.whitecolor{
+    color: #FFFFFF!important;
+}
+.col-sm-3 p{
+    display: none;
+}
 .paragraphe__font--size1{
     font-size: 18px;
     text-align: center;
