@@ -1,3 +1,4 @@
+
 .whitecolor{
     color: #FFFFFF!important;
 }
@@ -13,7 +14,7 @@
     text-align: center;
 }
 .paragraphe__font--size3{
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;  
 }
 .paragraphe__font--size4{
@@ -21,8 +22,13 @@
     text-align: center;
 }
 .font-address{
+    margin: 50px;
+}
+.font-address p{
+    color: black;
     font-size: 16px;
     font-weight: bold;  
+    text-align: center;
   }
 body {
     margin: 0;
@@ -703,7 +709,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
