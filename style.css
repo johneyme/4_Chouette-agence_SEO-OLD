@@ -1,4 +1,9 @@
-
+a span{
+    display: none;
+}
+.site-navigation li{
+    margin-right: 15px;
+}
 .whitecolor{
     color: #FFFFFF!important;
 }
