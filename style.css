@@ -2,7 +2,7 @@ a span{
     display: none;
 }
 .site-navigation li{
-    margin-right: 15px;
+    margin: 20px;
 }
 .whitecolor{
     color: #FFFFFF!important;
@@ -28,6 +28,7 @@ a span{
 }
 .font-address{
     margin: 50px;
+    border: solid black;
 }
 .font-address p{
     color: black;
