@@ -910,6 +910,9 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .col-sm-3{
+        margin: 30px;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
