@@ -1,3 +1,6 @@
+.site-navigation li:hover{
+    text-decoration: underline;
+}
 a span{
     display: none;
 }
