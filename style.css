@@ -13,7 +13,7 @@
 .whitecolor{
     color: #FFFFFF!important;
 }
-.col-sm-3 p{
+.reseauxsoc{
     display: none;
 }
 .paragraphe__font--size1{
@@ -177,7 +177,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(46, 45, 45);
 }
 
 .d-bloc .a-btn:hover,
