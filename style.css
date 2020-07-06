@@ -1,7 +1,10 @@
+.col-sm-6 span{
+    display: none;
+}
 .site-navigation li:hover{
     text-decoration: underline;
 }
-a span{
+.navbar-header span{
     display: none;
 }
 .site-navigation li{
